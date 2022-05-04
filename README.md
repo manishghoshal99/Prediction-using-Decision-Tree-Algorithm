@@ -14,7 +14,8 @@
 <a href="https://github.com/manishghoshal99/Prediction-using-Decision-Tree-Algorithm/blob/main/Prediction%20using%20Decision%20Tree%20Algorithm.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
 > Demo:
-<a href="https://www.youtube.com/watch?v=UFl8yvJF4qk">Prediction using Decision Tree Algorithm</a>
+<a href="...">Prediction using Decision Tree Algorithm - To Be Added</a>
+
 <br><br>
 <p align="center">
   <b><i>Let's connect! Find me on the web xD</i></b>
@@ -30,3 +31,9 @@
 [gmail]: mailto:meloidasdragneel12@gmail.com
 [linkedin]: https://www.linkedin.com/in/manish-ghoshal-454ba0205/
 [github]: https://github.com/manishghoshal99
+
+
+
+If you have any Queries or Suggestions, feel free to reach out to me.
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
